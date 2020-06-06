@@ -1,0 +1,19 @@
+.main {
+  background-color: #B0CCAB;
+  padding: 50px;
+  width: 800px;
+  height: 200px;
+}
+
+p {
+  position: absolute;
+  width: 800px;
+}
+
+.main__paragraph {
+  left: 40px;
+  position: relative;
+  top: 90px;
+}
+
+/*# sourceMappingURL=main.css.map */

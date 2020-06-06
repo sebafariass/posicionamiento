@@ -1,0 +1,26 @@
+.image1 {
+  position: absolute;
+  left: 100px;
+}
+
+.image2 {
+  position: absolute;
+  left: 370px;
+}
+
+.image3 {
+  position: absolute;
+  left: 700px;
+}
+
+.image4 {
+  position: absolute;
+  left: 1000px;
+}
+
+nav {
+  background: green;
+  color: black;
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,112 @@
+// bandera española
+
+.españa {
+    width: 450px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+}
+
+.españa_red{
+    width: 450px;
+    height: 150px;
+    background-color: yellow;
+    position: absolute;
+    top: 70px;
+   
+}
+
+
+//bandera dinamark
+
+.dinamark {
+    width: 450px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+    left: 500px;
+   
+    
+}
+
+.dinamark_white {
+    width: 40px;
+    height: 300px;
+    background-color: #fff;
+    position: absolute;
+    left: 100px;
+}
+
+.dinamark_white2 {
+    width: 450px;
+    height: 40px;
+    background-color: #fff;
+    position: absolute;
+    top: 120px;
+   
+    
+}
+
+//emiratos flag
+
+.emirato {
+    width: 450px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    top: 370px;
+    
+    
+}
+//verde 
+.emiratoGreen {
+    width: 350px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    left: 100px
+}
+
+
+//negro 
+.emiratoBlack {
+    width: 350px;
+    height: 100px;
+    background-color: black;
+    position: absolute;
+    bottom: 0px;
+    left: 100px;
+
+}
+//rojo
+.emiratoRed {
+    width: 100px;
+    height: 300px;
+    background-color: red;
+    position: absolute;
+}
+
+
+
+// japan flag
+
+
+.japon {
+    width: 450px;
+    height: 300px;
+    background-color: white;
+    position: absolute;
+    left: 500px;
+    border: solid 1px black;
+}
+
+.japonRed {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    border-radius: 50%;
+    background-color: red;
+    position: absolute;
+    right: 180px;
+    top: 100px;
+}

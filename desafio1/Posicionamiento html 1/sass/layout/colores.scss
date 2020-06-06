@@ -1,0 +1,36 @@
+//probando posicionando de text de cajas
+p {
+    position: relative;
+    left: 20px;
+}
+
+
+.caja1 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+      
+}
+
+.caja2 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 475px;
+  
+}
+.caja3 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 170px;
+
+}
+.caja4 {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 325px;
+    
+}
+

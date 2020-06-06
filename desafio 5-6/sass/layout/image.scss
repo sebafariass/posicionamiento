@@ -1,0 +1,39 @@
+// padding para hacerlo mas estetico
+article {
+    position: relative;
+    padding: 20px;
+    
+}
+// absoluto para montarse sobre la imagen principal
+.img_ribbon {
+    position: absolute;
+   
+}
+
+// static para mantener fija imagen
+.img_item {
+    position: static;
+    
+}
+
+
+
+
+
+
+// BURGER + LOGO 
+
+.burger {
+    width: 400px;
+    height: 300px;
+    position: absolute;
+}
+
+.logo {
+    position: relative;
+    top: 180px;
+    left: 250px;
+    
+
+    
+}

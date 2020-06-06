@@ -1,0 +1,26 @@
+article {
+  position: relative;
+  padding: 20px;
+}
+
+.img_ribbon {
+  position: absolute;
+}
+
+.img_item {
+  position: static;
+}
+
+.burger {
+  width: 400px;
+  height: 300px;
+  position: absolute;
+}
+
+.logo {
+  position: relative;
+  top: 180px;
+  left: 250px;
+}
+
+/*# sourceMappingURL=main.css.map */
